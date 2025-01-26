@@ -3,10 +3,8 @@
     
 </h2>
 
-## 💻 درباره من:
-- برنامه‌نویس فرانت‌اند با تجربه در React و Next.js
-- عاشق یادگیری و حل چالش‌های جدید
-- مهارت در طراحی رابط کاربری با Tailwind CSS و Bootstrap
+👨‍💻 Junior Frontend Developer | Passionate about creating beautiful and interactive user interfaces with React, HTML, CSS & Tailwind.
+
 
 ## ابزارها و مهارت‌ها:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,git,github,react,supabase,vite,nextjs,sass,bootstrap,vscode,npm)](https://skillicons.dev)
