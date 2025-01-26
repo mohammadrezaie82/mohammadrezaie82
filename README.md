@@ -22,3 +22,18 @@
 
 - لینکدین: [لینک لینکدین شما](https://www.linkedin.com/in/mohammad-rezaie-30ab50243/)
 - ایمیل: [ایمیل شما](mailto:mohammadrezaiezavie@example.com)
+# پروژه‌های من 🌟
+
+## ابزارها و مهارت‌ها:
+![React](https://img.shields.io/badge/-React-blue?logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)
+
+## وضعیت پروژه:
+![Status](https://img.shields.io/badge/status-active-success)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+## پروژه‌های گیت‌هاب:
+![GitHub Stars](https://img.shields.io/github/stars/username/repo-name?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/username/repo-name?style=social)
