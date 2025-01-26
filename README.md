@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 سلام! من محمدم هستم
 
-<!--
-**mohammadrezaie82/mohammadrezaie82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 درباره من:
+- برنامه‌نویس فرانت‌اند با تجربه در React و Next.js
+- عاشق یادگیری و حل چالش‌های جدید
+- مهارت در طراحی رابط کاربری با Tailwind CSS و Bootstrap
 
-Here are some ideas to get you started:
+## 🔧 مهارت‌ها:
+- زبان‌ها: HTML, CSS/SCSS, JavaScript, TypeScript
+- کتابخانه‌ها و فریم‌ورک‌ها: ReactJS, Next.js, Redux, TailwindCSS
+- ابزارها: Git, GitHub, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 در حال یادگیری:
+- Node.js و توسعه بک‌اند
+- کار با دیتابیس‌ها (MongoDB, Supabase)
+
+## 🌟 پروژه‌های من:
+- [📂 پروژه Movie](https://github.com/username/project-movie)  
+- [📂 پروژه Fast-Food](https://github.com/username/fast-food)
+
+## 🌐 راه‌های ارتباطی:
+
+- لینکدین: [لینک لینکدین شما](https://www.linkedin.com/in/mohammad-rezaie-30ab50243/)
+- ایمیل: [ایمیل شما](mailto:mohammadrezaiezavie@example.com)
