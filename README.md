@@ -6,4 +6,4 @@
 - مهارت در طراحی رابط کاربری با Tailwind CSS و Bootstrap
 
 ## ابزارها و مهارت‌ها:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma)](https://skillicons.dev)
