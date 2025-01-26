@@ -1,9 +1,11 @@
   <h2 align="center" font-size="60px">
-   👋 سلام! من محمد هستم
+   👋 Hi! Iam mohammad
     
 </h2>
 
-👨‍💻 Junior Frontend Developer | Passionate about creating beautiful and interactive user interfaces with React, HTML, CSS & Tailwind.
+<div align="center">
+  👨‍💻 Junior Frontend Developer | Passionate about creating beautiful and interactive user interfaces with React, HTML, CSS & Tailwind.
+</div>
 
 
 ## ابزارها و مهارت‌ها:
