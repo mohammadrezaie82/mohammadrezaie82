@@ -8,5 +8,5 @@
 </div>
 
 
-Tools and skills:
+##Tools and skills:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,git,github,react,supabase,vite,nextjs,sass,bootstrap,vscode,npm)](https://skillicons.dev)
