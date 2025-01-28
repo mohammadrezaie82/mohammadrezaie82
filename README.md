@@ -6,7 +6,7 @@
   👨‍💻 Junior Frontend Developer | Passionate about creating beautiful
 </div>
 
-<h3 style="text-align: center;">مهارت</h3>
+<h3 style="text-align: center;">Tools and skills:</h3>
 
 <div style="text-align: center;">
   <a href="https://skillicons.dev">
