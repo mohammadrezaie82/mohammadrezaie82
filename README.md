@@ -1,11 +1,11 @@
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
-  <h2 style="font-size: 60px;">👋 Hi! I am Mohammad</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,figma,git,github,react,supabase,vite,nextjs,sass,bootstrap,vscode,npm" alt="My Skills"/>
+</p>
 
-  <div>👨‍💻 Junior Frontend Developer | Passionate about creating beautiful</div>
+<h2 align="center">👋 Hi! I am Mohammad</h2>
 
-  <h3>مهارت</h3>
+<p align="center">
+  👨‍💻 Junior Frontend Developer | Passionate about creating beautiful
+</p>
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,figma,git,github,react,supabase,vite,nextjs,sass,bootstrap,vscode,npm" alt="My Skills"/>
-  </a>
-</div>
+<h3 align="center">مهارت</h3>
